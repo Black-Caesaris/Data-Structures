@@ -8,3 +8,6 @@ If you know you need to explore all the leaves before any nodes, you select post
 If you know that the tree has an inherent sequence in the nodes, and you want to flatten the tree back into its original sequence, than an in-order traversal should be used. The tree would be flattened in the same way it was created. A pre-order or post-order traversal might not unwind the tree back into the sequence which was used to create it.
 
 
+Pointer Concepts: 
+
+- Learnt important difference between pass by pointer and pass by reference
